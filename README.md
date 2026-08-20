@@ -6,8 +6,6 @@ Investigation directory — tools, feeds, and sources.
 
 `1137` clearnet &nbsp;·&nbsp; `183` onion &nbsp;·&nbsp; August 2026
 
-<img src="osint_framework.png" alt="OSINT Framework" width="680">
-
 </div>
 
 > Use legally and ethically. You are responsible for how you apply these resources.
@@ -1242,7 +1240,7 @@ Investigation directory — tools, feeds, and sources.
 | [Open Source Intelligence Techniques (Michael Bazzell)](https://inteltechniques.com/) | Comprehensive OSINT book and toolkit |
 | [OSINT Curious](https://www.osintcurio.us/) | Blog, podcast, and tutorials (archived but valuable) |
 | [OSINT Dojo](https://www.osintdojo.com/) | Free structured learning path for OSINT |
-| [OSINT Framework](https://raw.githubusercontent.com/teal33t/osint-notes/master/osint_framework.png) | — |
+| [OSINT Framework](https://osintframework.com/) | Interactive tree of OSINT tools |
 | [OSINT Techniques (Sector035’s Curated Lists)](https://sector035.nl/) | Weekly curated OSINT links and guides |
 | [OSINT with ShadowDragon](https://podcast.shadowdragon.io/) | Podcast by ShadowDragon about OSINT tooling, digital footprints, and real-world… |
 | [OSINTrack](https://osintrack.com/) | Another resource directory, but with fancy graphics! |
